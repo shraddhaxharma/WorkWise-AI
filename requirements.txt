@@ -1,16 +1,18 @@
 streamlit
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-text-splitters
 
-langchain==0.2.16
-langchain-community==0.2.16
-langchain-core==0.2.43
-langchain-google-genai==1.0.10
-langchain-text-splitters==0.2.4
+google-generativeai
+faiss-cpu
+pypdf
 
-google-generativeai==0.7.2
-faiss-cpu==1.14.3
+python-dotenv
+pandas
+numpy
 
-pypdf==4.3.1
-python-dotenv==1.0.1
+GitPython
 
-numpy==1.26.4
-pandas==2.2.2
+python-docx
